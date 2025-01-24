@@ -247,4 +247,7 @@ Breakpoints
         flex-direction: column;
         align-items: flex-end;
     }
+    .collage{
+        padding: 50px;
+    }
 }
